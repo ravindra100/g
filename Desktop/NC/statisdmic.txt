@@ -1,0 +1,42 @@
+A static website contains Web pages with fixed content. Each page is coded in HTML and displays the same information to every visitor. Static sites are the most basic type of website and are the easiest to create.
+
+A static site can be built by simply creating a few HTML pages and publishing them to a Web server.
+
+static Web pages contain fixed code, the content of each page does not change unless it is manually updated by the webmaster. This works well for small websites, but it can make large sites with hundreds or thousands of pages difficult to maintain. Therefore, larger websites typically use dynamic pages, which can be updated by simply modifying a database record. Static sites that contain a lot of pages are often designed using templates. This makes it possible to update several pages at once, and also helps provide a consistent layout throughout the site.
+
+
+Advantages of static websites
+
+    Quick to develop
+    Cheap to develop
+    Cheap to host
+
+Disadvantages of static websites
+
+    Requires web development expertise to update site
+    Site not as useful for the user
+    Content can get stagnant
+
+Dynamic sites on the other hand can be more expensive to develop initially, but the advantages are numerous. At a basic level, a dynamic website can give the website owner the ability to simply update and add new content to the site. For example, news and events could be posted to the site through a simple browser interface. Dynamic features of a site are only limited by imagination. Some examples of dynamic website features could be: content management system, e-commerce system, bulletin / discussion boards, intranet or extranet facilities, ability for clients or users to upload documents, ability for administrators or users to create content or add information to a site (dynamic publishing).
+Advantages of dynamic websites
+
+    Much more functional website
+    Much easier to update
+    New content brings people back to the site and helps in the search engines
+    Can work as a system to allow staff or users to collaborate
+
+Disadvantages of dynamic websites
+
+    Slower / more expensive to develop
+    Hosting costs a little more
+
+Dynamic Website:
+
+Dynamic websites contain Web pages that are generated in real-time. These pages include Web scripting code, such as PHP or ASP. When a dynamic page is accessed, the code within the page is parsed on the Web server and the resulting HTML is sent to the client's Web browser.
+
+Most large websites are dynamic, since they are easier to maintain than static websites. This is because static pages each contain unique content, meaning they must be manually opened, edited, and published whenever a change is made. Dynamic pages, on the other hand, access information from a database. Therefore, to alter the content of a dynamic page, the webmaster may only need to update a database record. This is especially helpful for large sites that contain hundreds or thousands of pages. It also makes it possible for multiple users to update the content of a website without editing the layout of the pages.
+
+Dynamic websites that access information from a database are also called database-driven websites.
+
+
+

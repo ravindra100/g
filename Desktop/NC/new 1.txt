@@ -1,0 +1,97 @@
+ <div class="mu-course-container">
+                  <div class="row">
+                  <div class="mu-course-container">
+                  <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Electronic & Communication Engineering</a>
+                         
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <p>Some text here</p>
+                       
+                      </div>
+                    </div> 
+                  </div>                  
+                  <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img" ></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Electrical & Electronics Engineering  </a>
+                        
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                         <p>Some text here</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Computer Science Engineering </a>
+                        
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                        <p>Some text here</p>
+                      </div>
+                    </div> 
+                  </div>                  
+                  <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Information Science Engineering </a>
+                        
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                       <p>Some text here</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Mechanical Engineering </a>
+                        
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                      <p>Some text here</p>
+                      </div>
+                    </div> 
+                  </div>                  
+                  <div class="col-md-6 col-sm-6">
+                    <div class="mu-latest-course-single">
+                      <figure class="mu-latest-course-img">
+                        <a href="#"><img src="assets/img/ec.jpg" alt="img"></a>
+                        <figcaption class="mu-latest-course-imgcaption">
+                          <a href="#">Civil Engineering  </a>
+                       
+                        </figcaption>
+                      </figure>
+                      <div class="mu-latest-course-single-content">
+                        <h4><a href="#">Lorem ipsum dolor sit amet.</a></h4>
+                       <p>Some text here</p>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+                </div>  
